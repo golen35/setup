@@ -1,9 +1,9 @@
-# Node.js Setup 07/30/2024
+# Setup for As Production 07/30/2024
 
 ![](capa.jpg)
 
-## Integrate with editors
+## Architecture
 
-Enhance your Nx experience by installing [Nx Console](https://nx.dev/nx-console) for your favorite editor. Nx Console
-provides an interactive UI to view your projects, run tasks, generate code, and more! Available for VSCode, IntelliJ and
-comes with a LSP for Vim users.
+Initial model of a production-ready setup already pre-configured Node.js, Express, TypeScript, Eslint, Jest, Babel, Prisma, Redis,
+
+There are many ways to set up a development environment for a company, I like a simple structure
